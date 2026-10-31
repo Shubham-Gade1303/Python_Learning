@@ -1,0 +1,1 @@
+print(gard + stream + age)
