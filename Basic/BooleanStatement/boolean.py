@@ -11,3 +11,5 @@ if light_is_on:
 
 else: 
     print("we are int the dark")
+
+    print("hello")
