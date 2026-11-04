@@ -11,6 +11,4 @@ else:
 
 
 
-    git remote -v
-git fetch origin
-git push origin main
+   
