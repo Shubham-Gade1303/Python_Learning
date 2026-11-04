@@ -8,3 +8,9 @@ elif answer == 2:
     print("no")
 else:
     print("maybe")
+
+
+
+    git remote -v
+git fetch origin
+git push origin main
